@@ -1,1 +1,1 @@
-# -BDA-Deep-Learning-1-
+### [BDAI 학회 11기] 딥러닝의 이해(1)
